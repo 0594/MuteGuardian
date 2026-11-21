@@ -1,0 +1,6 @@
+# build output
+*.exe
+*.ico
+
+# local settings / logs
+*.log
