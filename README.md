@@ -1,5 +1,13 @@
 # 静音卫士 MuteGuardian
 
+[![Release](https://img.shields.io/badge/release-v1.0.0-blue.svg)](https://github.com/0594/MuteGuardian/releases/latest)
+[![Download](https://img.shields.io/badge/download-MuteGuardian.exe-2ea44f.svg?logo=windows&logoColor=white)](https://github.com/0594/MuteGuardian/releases/download/v1.0.0/MuteGuardian.exe)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6.svg?logo=windows&logoColor=white)](#已知边界)
+[![.NET](https://img.shields.io/badge/.NET%20Framework-4.x-512BD4.svg?logo=dotnet&logoColor=white)](#从源码编译)
+
+**直接下载：[MuteGuardian.exe（57 KB，免安装）](https://github.com/0594/MuteGuardian/releases/download/v1.0.0/MuteGuardian.exe)** ·
+[全部版本](https://github.com/0594/MuteGuardian/releases)
+
 Windows 常驻小工具：**满足离开条件时静音系统主音量，真正回到桌面后自动恢复原音量**。
 
 它不是屏保，也不会替换系统已有的屏保——只在后台判断"人是否离开"，然后管音量。
