@@ -4,6 +4,7 @@
 [![Download](https://img.shields.io/badge/download-MuteGuardian.exe-2ea44f.svg?logo=windows&logoColor=white)](https://github.com/0594/MuteGuardian/releases/download/v1.0.0/MuteGuardian.exe)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6.svg?logo=windows&logoColor=white)](#已知边界)
 [![.NET](https://img.shields.io/badge/.NET%20Framework-4.x-512BD4.svg?logo=dotnet&logoColor=white)](#从源码编译)
+[![License](https://img.shields.io/badge/license-MIT-3DA639.svg)](LICENSE)
 
 **直接下载：[MuteGuardian.exe（57 KB，免安装）](https://github.com/0594/MuteGuardian/releases/download/v1.0.0/MuteGuardian.exe)** ·
 [全部版本](https://github.com/0594/MuteGuardian/releases)
@@ -130,3 +131,7 @@ MuteGuardian.cs    主程序源码（C# / WinForms + P/Invoke）
 build.bat          一键编译（先生成图标，再编译 exe）
 tools/IcoGen.cs    图标生成器，输出 16/24/32/48/64/128/256 多尺寸 ICO
 ```
+
+## 许可证
+
+MIT License，详见 [LICENSE](LICENSE)。可自由使用、修改、再发布，包括商业用途，保留版权与许可声明即可；软件按"现状"提供，不附带担保。
